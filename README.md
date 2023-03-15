@@ -61,5 +61,15 @@ time (optional): the time of the products in HH:mm:ss format
 - MySQL
 - Maven
 
+
+# Project Summary:
+
+##### The Expense Tracker API is a RESTful API that allows users to track their expenses. It provides CRUD operations for expenses, and also allows users to generate reports on a monthly or weekly basis. Users must sign in or register to access the API.
+
+##### The API is built using the Spring Boot framework and Java language. It uses a MySQL database to store user and expense data. The API has a model, service, controller, and repository layer, which have been implemented using best practices in software development.
+
+##### Users can create, read, update, and delete expenses using the API. They can also generate reports on a monthly or weekly basis. The API calculates the total expenditure for a given month and displays it to the user.
+
+
 # Contributing
 - Contributions to Expense Tracker are welcome! If you would like to contribute, please fork the repository and submit a pull request.
