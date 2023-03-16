@@ -76,5 +76,6 @@ time (optional): the time of the products in HH:mm:ss format
 
 # Video Presentation
 #### code running video - https://drive.google.com/file/d/1suNAihIYLqHaF-y8dmmfDFBuIq6PAOvX/view?usp=share_link
+#### Explanation video - https://drive.google.com/file/d/1J0J37Y6Wk3vAyuZSaCIekRzCERmgqV3B/view?usp=share_link
 #### Explanation video - https://linksharing.samsungcloud.com/gHFezCwayybb
 
